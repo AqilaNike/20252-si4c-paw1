@@ -1,0 +1,13 @@
+/* element selector */
+/* referensi di web colorhunt.co */
+body{
+    background-color: #853953;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.txt-center{text-align: center;}
+.bg-warning{ background-color: bisque; border-radius: 20px;}
+.txt-black{ color: black;}
+.p-1{padding: 50px;} /* memberi jarak sisi dalam border */
+.m-1{margin: 100px;} /* memberi jarak sisi luar border*/ 
