@@ -7,7 +7,11 @@ body{
 }
 
 .txt-center{text-align: center;}
-.bg-warning{ background-color: bisque; border-radius: 20px;}
+.bg-warning{ background-color: bisque; border-radius: 20px;border-style: dashed;}
 .txt-black{ color: black;}
 .p-1{padding: 50px;} /* memberi jarak sisi dalam border */
 .m-1{margin: 100px;} /* memberi jarak sisi luar border*/ 
+
+a:link{
+    color: red;
+}
