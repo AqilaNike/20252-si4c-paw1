@@ -1,6 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
 /* hp max-width: 600px */
 body{
     background-color: blue;
+}
+
+img{
+    width: 100%;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+/* clear float column */
+.row{
+    clear: both;
 }
 
 /* tablet min-width: 600px */
@@ -17,7 +34,6 @@ body{
 
     .col-lg-100{
         width: 100%;
-        float: left;
     }
 }
 
